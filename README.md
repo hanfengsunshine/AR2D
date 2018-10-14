@@ -18,3 +18,19 @@ Designing augmented reality interfaces: https://dl.acm.org/citation.cfm?id=10578
        
        The paper on digital pen for annotation recommended by Prof. Seo was François' paper, which you can find here:
 https://www.cs.cornell.edu/~francois/Papers/UIST03.pdf
+
+
+Fred:
+https://2018datavar.slack.com/archives/C7X6CQ00H/p1510244254000055
+
+Fred:
+https://2018datavar.slack.com/archives/C7X6CQ00H/p1510841137000077
+
+Fred:
+https://2018datavar.slack.com/archives/C7X6CQ00H/p1510841321000323
+
+Fred:
+https://2018datavar.slack.com/archives/C7X6CQ00H/p1510841339000036
+
+Fred:
+https://python.freelycode.com/contribution/detail/735
