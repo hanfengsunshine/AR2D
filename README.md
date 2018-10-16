@@ -19,20 +19,22 @@ Designing augmented reality interfaces: https://dl.acm.org/citation.cfm?id=10578
        The paper on digital pen for annotation recommended by Prof. Seo was François' paper, which you can find here:
 https://www.cs.cornell.edu/~francois/Papers/UIST03.pdf
 
+https://www.overleaf.com/11922329dsdjmkgrrkng#/45201912/ 
 
-Fred:
-https://2018datavar.slack.com/archives/C7X6CQ00H/p1510244254000055
+https://aframe.io/
 
-Fred:
-https://2018datavar.slack.com/archives/C7X6CQ00H/p1510841137000077
+https://webvr.info/
 
-Fred:
-https://2018datavar.slack.com/archives/C7X6CQ00H/p1510841321000323
 
-Fred:
-https://2018datavar.slack.com/archives/C7X6CQ00H/p1510841339000036
 
-Fred:
+https://facebook.github.io/react-vr/ 
+
 https://python.freelycode.com/contribution/detail/735
+
+
+
+https://zhuanlan.zhihu.com/p/26364493 
+
+
 
 https://developer.apple.com/design/human-interface-guidelines/ios/system-capabilities/augmented-reality/
