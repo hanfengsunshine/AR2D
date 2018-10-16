@@ -38,3 +38,7 @@ https://zhuanlan.zhihu.com/p/26364493
 
 
 https://developer.apple.com/design/human-interface-guidelines/ios/system-capabilities/augmented-reality/
+
+http://youxiputao.com/articles/7964. 
+
+Navigation in AR 
