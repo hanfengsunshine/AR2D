@@ -34,3 +34,5 @@ https://2018datavar.slack.com/archives/C7X6CQ00H/p1510841339000036
 
 Fred:
 https://python.freelycode.com/contribution/detail/735
+
+https://developer.apple.com/design/human-interface-guidelines/ios/system-capabilities/augmented-reality/
