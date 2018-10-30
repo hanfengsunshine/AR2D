@@ -42,3 +42,10 @@ https://developer.apple.com/design/human-interface-guidelines/ios/system-capabil
 http://youxiputao.com/articles/7964. 
 
 Navigation in AR 
+
+
+https://www.youtube.com/watch?v=twSTqxghHNQ&feature=youtu.be    RichReview: Blending Ink, Speech, and Gesture to Support Collaborative Document Review
+
+http://www.cs.cornell.edu/~francois/   
+
+Demo onlien 
