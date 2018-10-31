@@ -49,3 +49,16 @@ https://www.youtube.com/watch?v=twSTqxghHNQ&feature=youtu.be    RichReview: Blen
 http://www.cs.cornell.edu/~francois/   
 
 Demo onlien 
+
+1. 了解一下Google Gboard 写一些report ,有没有开源程序包 github 
+2. 语言转化文字 有没有基于Unity 引擎， 或者 可以转化的工具
+3. 了解一下录音功能 ，录音转化文字并且保存，类似科大讯飞
+4. speech to text   
+
+https://almond.stanford.edu/
+
+https://zhuanlan.zhihu.com/p/33971577
+
+https://richreview.net/viewer?access_code=7bf0f0add24f13dda0c0a64da0f45a0a6909809e&docid=116730002901619859123_1416501969000&groupid=116730002901619859123_1424986924617
+
+
