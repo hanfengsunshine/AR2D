@@ -61,4 +61,9 @@ https://zhuanlan.zhihu.com/p/33971577
 
 https://richreview.net/viewer?access_code=7bf0f0add24f13dda0c0a64da0f45a0a6909809e&docid=116730002901619859123_1416501969000&groupid=116730002901619859123_1424986924617
 
+Nov.5 
 
+测试IBM Watson , 尝试创建密码，
+尝试开发内置Unity 截图工具 
+Argue 为什么 AR T3D 比较  
+ 
