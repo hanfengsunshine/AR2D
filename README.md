@@ -68,9 +68,22 @@ Nov.5
  
  IBM watson + Gborad 
 
- physical on paper 
-\
+ physical on paper  
  
+ 
+ Two ways : 
+ 
+ 
+ 
+Fred:
+https://github.com/Stanford-Mobisocial-IoT-Lab/almond-cloud  开源
+
+Fred:
+机器猫
+
+
+Fred:
+https://richreview.net/  两种方法 我要在这个基础上 加入AR 技术  +  G board 或者 virtual assistang 
 
 
 
