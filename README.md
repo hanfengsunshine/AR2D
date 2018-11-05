@@ -1,9 +1,7 @@
 # AR2D
 
  Survey Design guidelines from 2D software like Adobe editor  
- 
 
- 
 The Essential Guide to User Interface Design: An Introduction to GUI Design Principles and Techniques: https://dl.acm.org/citation.cfm?id=1202463
  
 An Introduction to 3-D User Interface Design: https://www.mitpressjournals.org/doi/pdfplus/10.1162/105474601750182342
@@ -66,4 +64,38 @@ Nov.5
 测试IBM Watson , 尝试创建密码，
 尝试开发内置Unity 截图工具 
 Argue 为什么 AR T3D 比较  
+IBM watson + Gborad 
+physical on paper 
+\
  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
