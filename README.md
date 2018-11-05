@@ -30,7 +30,6 @@ https://facebook.github.io/react-vr/
 https://python.freelycode.com/contribution/detail/735
 
 
-
 https://zhuanlan.zhihu.com/p/26364493 
 
 
@@ -61,11 +60,15 @@ https://richreview.net/viewer?access_code=7bf0f0add24f13dda0c0a64da0f45a0a690980
 
 Nov.5 
 
-测试IBM Watson , 尝试创建密码，
-尝试开发内置Unity 截图工具 
-Argue 为什么 AR T3D 比较  
-IBM watson + Gborad 
-physical on paper 
+  测试IBM Watson , 尝试创建密码，
+  
+  尝试开发内置Unity 截图工具 
+
+ Argue 为什么 AR T3D 比较  
+ 
+ IBM watson + Gborad 
+
+ physical on paper 
 \
  
 
